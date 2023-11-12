@@ -53,3 +53,4 @@ kullanıcı yaptıgı işlemi sayfayı yenileyinca kaybeder örnek: alişveriş 
 
 - Olması gereken
 önce api istegi atılır egerki api istegi başarılı olursa arayüze bu yansıtılır. başarısız olursa hata uyarısı verilir
+
