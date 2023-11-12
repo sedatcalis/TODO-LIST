@@ -1,0 +1,60 @@
+{
+  "todos": [
+    {
+      "id": "sadljad",
+      "title": "js ögren",
+      "status": "important",
+      "date": "2023-03-24",
+      "isDone": true
+    },
+    {
+      "id": "task7",
+      "title": "PHP ile dosya işlemleri yap",
+      "status": "job",
+      "date": "2023-03-24",
+      "isDone": true
+    },
+    {
+      "id": "task6",
+      "title": "Vue.js projeyi optimize et",
+      "status": "daily",
+      "date": "2023-03-24",
+      "isDone": false
+    },
+    {
+      "id": "task5",
+      "title": "Python ile veritabanı bağlantısı kur",
+      "status": "important",
+      "date": "2023-03-24",
+      "isDone": false
+    },
+    {
+      "id": "task4",
+      "title": "React.js bileşenleri geliştir",
+      "status": "daily",
+      "date": "2023-03-24",
+      "isDone": true
+    },
+    {
+      "id": "task2",
+      "title": "CSS temel konuları incele",
+      "status": "job",
+      "date": "2023-03-24",
+      "isDone": false
+    },
+    {
+      "title": "deneme",
+      "status": "important",
+      "id": "dafb1c2a-5aa0-4e7d-b4db-421b5ffc168a",
+      "isDone": false,
+      "date": "12.11.2023"
+    },
+    {
+      "title": " dizi izle",
+      "status": "important",
+      "id": "de99849a-6477-4555-9818-4ef0c41bacbd",
+      "isDone": false,
+      "date": "12.11.2023"
+    }
+  ]
+}
